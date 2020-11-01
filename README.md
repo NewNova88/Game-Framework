@@ -11,4 +11,6 @@ le projet, il vous faudra Code::Blocks. Et voilà ! Pas besoin de plus !
 Pour ce qui est du framework, le code est clair et commenté (en anglais parce que pourquoi pas), 
 et les noms de méthodes et de variables sont claires. Il sera donc très facile de voir comment il fonctionne.
 
+note : vous devrez probablement modifier le fichier .depend, car il contient les chemins absolus des fichiers, et non
+relatif.
 # Bon code !
