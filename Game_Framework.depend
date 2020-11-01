@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1604158851 source:/home/pierre/Documents/C++/Pong/main.cpp
+	"Game.h"
+
+1604237423 /home/pierre/Documents/C++/Pong/include/Game.h
+	"Player.h"
+
+1604250350 source:/home/pierre/Documents/C++/Pong/src/Game.cpp
+	"Game.h"
+
+1604162913 /home/pierre/Documents/C++/Pong/include/constants.h
+
+1604237752 /home/pierre/Documents/C++/Pong/include/Player.h
+	<SFML/Graphics.hpp>
+	"constants.h"
+
+1604250284 source:/home/pierre/Documents/C++/Pong/src/Player.cpp
+	"Player.h"
+
